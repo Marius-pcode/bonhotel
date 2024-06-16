@@ -195,7 +195,7 @@ body {
     color: white;
 }
 a:-webkit-any-link {
-    color: white;
+    color: rgb(174, 177, 154); /*cambiato colore */
     cursor: pointer;
     text-decoration: underline;
 }
